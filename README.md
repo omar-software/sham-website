@@ -24,7 +24,7 @@ https://entemnalhara.wuaze.com/
 
 ## Database
 
-Import the file `database.sql` into your MySQL server before running the project.
+Import the file `if0_38049916_ent_mn_al7ara.sql` into your MySQL server before running the project.
 
 ## Author
 
