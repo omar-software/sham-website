@@ -1,8 +1,8 @@
 <?php
-$servername = "sql210.infinityfree.com";
-$username = "if0_38049916";
-$password = "4MbG4MegoRU";
-$dbname = "if0_38049916_ent_mn_al7ara"; // عدّل هذا السطر
+$servername = "";
+$username = "";
+$password = "";
+$dbname = "if0_38049916_ent_mn_al7ara"
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
